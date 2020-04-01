@@ -1,6 +1,6 @@
 ## OKR Lernpfad
 
-Sich selbst ambitionierte Ziele (Objectives) zu stecken und greifbare Ergebnisse (Key Results) zu definieren, kann sehr motivierend sein. Viele Menschen haben eine lange Man-Müsste-Mal-Liste, gehen dieses Ziele aber nicht richtig an. Je länger die Liste, desto größer die Hürde etwas anzupacken. Google verwendet daher die einfache Methode Objectives & Key Results (OKR) bei der die Ziele der nächsten drei Monate [nach folgenden Kriterien](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) definiert werden:
+Sich selbst ambitionierte Ziele (Objectives) zu stecken und greifbare Ergebnisse (Key Results) zu definieren, kann sehr motivierend sein. Viele Menschen haben eine lange Man-Müsste-Mal-Liste, gehen diese Ziele aber nicht richtig an. Je länger die Liste, desto größer die Hürde etwas anzupacken. Google verwendet daher die einfache Methode Objectives & Key Results (OKR) bei der die Ziele der nächsten drei Monate [nach folgenden Kriterien](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) definiert werden:
 
 * Objectives sind anspruchsvoll und können sich etwas unbequem anfühlen.
 * Key Results sind auf einer Skala von 0 - 1,0 messbar (oder 0-100%).
